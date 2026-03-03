@@ -178,7 +178,10 @@ img {
     margin-top: 55px;
 }
 
-.mobile-background-container img, .mobile-background-container-bottom img {
+.mobile-background-container img { 
+    display: none;
+}  
+.mobile-background-container-bottom img {
     display: none;
 }
 
