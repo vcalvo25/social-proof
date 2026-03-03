@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-social-proof-section-u9Lf7o_g3y
+- Live Site URL: https://vcalvo25.github.io/social-proof/
 
 ## My process
 
@@ -38,4 +38,4 @@ Users should be able to:
 Learned to strengthen my FlexBox skills further. Learned how to use two background images at once dynamically.
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - https://www.frontendmentor.io/profile/vcalvo25
